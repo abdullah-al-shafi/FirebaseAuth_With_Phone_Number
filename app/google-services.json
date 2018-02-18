@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "399427011984",
+    "firebase_url": "https://all-test-c82c4.firebaseio.com",
+    "project_id": "all-test-c82c4",
+    "storage_bucket": "all-test-c82c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399427011984:android:95583cc5d827aadf",
+        "android_client_info": {
+          "package_name": "sbf.shafi.smsverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399427011984-ld9b6dqg33sm29pgbntp651el3mp7bk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sbf.shafi.smsverification",
+            "certificate_hash": "ca5b89eb0ba29157bf879f05d27d2dc7a27e33cc"
+          }
+        },
+        {
+          "client_id": "399427011984-8g2hpelr026jcun0bjkvctiomf6s603o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhgF4uBy8h2Szk0nTzxdvZh9pH5vzUOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399427011984-8g2hpelr026jcun0bjkvctiomf6s603o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399427011984:android:367425e854f49de9",
+        "android_client_info": {
+          "package_name": "sbf.shafi.firebaseauthenticationwithphonenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399427011984-gtfhi9iecuf69jtbqouvsujv9s98it8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sbf.shafi.firebaseauthenticationwithphonenumber",
+            "certificate_hash": "ca5b89eb0ba29157bf879f05d27d2dc7a27e33cc"
+          }
+        },
+        {
+          "client_id": "399427011984-8g2hpelr026jcun0bjkvctiomf6s603o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhgF4uBy8h2Szk0nTzxdvZh9pH5vzUOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399427011984-8g2hpelr026jcun0bjkvctiomf6s603o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
